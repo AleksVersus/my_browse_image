@@ -1,0 +1,49 @@
+#central {
+    width:100%;
+    position: absolute;
+    top: 80px;
+    bottom: 40px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    align-items: stretch;
+}
+
+#navigate-tree-outro {
+    overflow-y: auto;
+    max-height:100%;
+    min-width: 250px;
+    
+    background: rgb(255, 255, 255);
+    box-shadow: 0 0 1em rgba(0, 0, 0, 0.5);
+}
+
+#navigate-tree {
+        
+}
+#navigate-tree-list {
+    list-style-type: none;
+}
+.navigate-tree-point:before {
+    content: "▷ ";
+}
+.navigate-tree-point:hover {
+    cursor: pointer;
+}
+#navigate-tree-back-button {
+    margin-bottom: 1em;
+}
+#navigate-tree-back-button:before {
+    content: "◀ ";   
+}
+#navigate-tree-back-button:hover {
+    cursor: pointer;  
+}
+
+
+#main-screen {
+    background: rgb(241, 243, 244);
+    overflow-y: auto;
+    overflow-x: hidden;
+    flex:4;
+}

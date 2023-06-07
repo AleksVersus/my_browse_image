@@ -1,0 +1,838 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"web",
+				"webpack-dev-server"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"c",
+				"checkBox"
+			],
+			[
+				"tas",
+				"task-manager__button"
+			],
+			[
+				"delete",
+				"deleteButtonImg"
+			],
+			[
+				"pop",
+				"popupEl"
+			],
+			[
+				"generate",
+				"generateCardPopup"
+			],
+			[
+				"cards",
+				"cardsCollect"
+			],
+			[
+				"po",
+				"popupHTML"
+			],
+			[
+				"sli",
+				"slicingFeed"
+			],
+			[
+				"valid",
+				"validNumbersLength"
+			],
+			[
+				"stri",
+				"stringNumber"
+			],
+			[
+				"car",
+				"cardsFeed"
+			],
+			[
+				"ran",
+				"getRandomInt"
+			],
+			[
+				"s",
+				"slice"
+			],
+			[
+				"random",
+				"getRandomInt"
+			],
+			[
+				"cars",
+				"cardsFeed"
+			],
+			[
+				"togg",
+				"toggleActivePrevButton"
+			],
+			[
+				"m",
+				"multiplier"
+			],
+			[
+				"to",
+				"toggleActiveNextButton"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"t",
+				"toggleActivePrevButton"
+			],
+			[
+				"butt",
+				"buttonPrev"
+			],
+			[
+				"button",
+				"buttonPrevEnd"
+			],
+			[
+				"ca",
+				"cardsFeed"
+			],
+			[
+				"this",
+				"thisCardsHand"
+			],
+			[
+				"new",
+				"newCardsPull"
+			],
+			[
+				"next",
+				"nextSlideButton"
+			],
+			[
+				"prev",
+				"prevSlideButton"
+			],
+			[
+				"pre",
+				"prevCardPole"
+			],
+			[
+				"card",
+				"cardsHand"
+			],
+			[
+				"thi",
+				"thisCardPole"
+			],
+			[
+				"ge",
+				"getCardsFromPull"
+			],
+			[
+				"bu",
+				"burgerMenuModal"
+			],
+			[
+				"ene",
+				"removeEventListener"
+			],
+			[
+				"modal-shader",
+				"modal-shader-burger-to-left"
+			],
+			[
+				"modal",
+				"modal-shader-burger-to-left"
+			],
+			[
+				"burger",
+				"burgerMenuNavigation"
+			],
+			[
+				"burg",
+				"burgerButtonImage"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"he",
+				"hexToDec"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"head",
+				"fb2_head"
+			],
+			[
+				"re",
+				"replace_spaces"
+			],
+			[
+				"segment",
+				"segment-class"
+			],
+			[
+				"post",
+				"post_line"
+			],
+			[
+				"match",
+				"match_in"
+			],
+			[
+				"for",
+				"for-head"
+			],
+			[
+				"list",
+				"list_olul"
+			],
+			[
+				"convert",
+				"test_convert"
+			],
+			[
+				"out",
+				"output_fb2"
+			],
+			[
+				"string",
+				"string_line"
+			],
+			[
+				"get_head",
+				"get_head_level"
+			],
+			[
+				"add",
+				"add_source"
+			],
+			[
+				"file",
+				"file_node"
+			],
+			[
+				"apped",
+				"append_node"
+			],
+			[
+				"print",
+				"print_data_base"
+			],
+			[
+				"fil",
+				"files_db"
+			],
+			[
+				"output",
+				"output_folder_path"
+			],
+			[
+				"content",
+				"content_html"
+			],
+			[
+				"make",
+				"make_output_folder"
+			],
+			[
+				"project",
+				"project_dict"
+			],
+			[
+				"html",
+				"html_json_path"
+			],
+			[
+				"гиперссы",
+				"гиперссылках"
+			],
+			[
+				"num",
+				"number_sort"
+			],
+			[
+				"end",
+				"end_cycle"
+			],
+			[
+				"instr",
+				"in_str"
+			],
+			[
+				"qsp",
+				"qspider_aeroqsp"
+			],
+			[
+				"q",
+				"qspider_gamecfg"
+			],
+			[
+				"cle",
+				"clear_id"
+			],
+			[
+				"qps",
+				"qspider"
+			],
+			[
+				"utf",
+				"utf-8"
+			],
+			[
+				"sa",
+				"savegame"
+			],
+			[
+				"gr",
+				"group"
+			],
+			[
+				"f",
+				"futanary"
+			],
+			[
+				"ADD",
+				"ADDOBJ"
+			],
+			[
+				"els",
+				"elseif"
+			],
+			[
+				"DY",
+				"DYNAMIC"
+			],
+			[
+				"до",
+				"добавления"
+			],
+			[
+				"метка",
+				"метка_на_локации"
+			],
+			[
+				"STR",
+				"STRFIND"
+			],
+			[
+				"d",
+				"dynamical"
+			],
+			[
+				"a",
+				"arrays"
+			],
+			[
+				"arr",
+				"ARRSIZE"
+			],
+			[
+				"я",
+				"яблоки_у_Лёшки"
+			],
+			[
+				"QGe",
+				"QGen"
+			],
+			[
+				"меч",
+				"меч_одноручный_1"
+			],
+			[
+				"e",
+				"export_folder"
+			],
+			[
+				"expor",
+				"export_folder"
+			],
+			[
+				"prep",
+				"prep_text_string_list"
+			],
+			[
+				"prev_is",
+				"prev_is_space"
+			],
+			[
+				"fi",
+				"find_all"
+			],
+			[
+				"pa",
+				"pageId"
+			],
+			[
+				"in",
+				"informarch_usethemassive"
+			],
+			[
+				"soderzhanie",
+				"soderzhanie_0001"
+			],
+			[
+				"getFile",
+				"getFilePath"
+			],
+			[
+				"qs",
+				"qsp"
+			],
+			[
+				"bi",
+				"big_butts"
+			],
+			[
+				"big",
+				"big_boobs"
+			],
+			[
+				"fin",
+				"findAll"
+			],
+			[
+				"лок",
+				"локации-счётчике"
+			],
+			[
+				"оперт",
+				"оператор"
+			],
+			[
+				"b",
+				"big_cock"
+			],
+			[
+				"hl",
+				"hl_text"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"кон",
+				"Конфигурационный"
+			],
+			[
+				"web-",
+				"web-версия"
+			],
+			[
+				"export",
+				"export_path"
+			],
+			[
+				"last",
+				"lastFileID"
+			],
+			[
+				"target",
+				"target_file"
+			],
+			[
+				"str",
+				"string_list"
+			],
+			[
+				"con",
+				"convert2HTML"
+			],
+			[
+				"NewS",
+				"NewSegment"
+			],
+			[
+				"New",
+				"NewSegment"
+			],
+			[
+				"sel",
+				"selector_end"
+			],
+			[
+				"se",
+				"selector"
+			],
+			[
+				"comment",
+				"comment_block"
+			],
+			[
+				"comm",
+				"comment_block"
+			],
+			[
+				"replace",
+				"replaceAll"
+			],
+			[
+				"conver",
+				"convertMonotype"
+			],
+			[
+				"setC",
+				"setCurFile"
+			],
+			[
+				"fp",
+				"fp_count"
+			],
+			[
+				"quote",
+				"quote-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Short Tag"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/my/projects/my_browse_image"
+	],
+	"file_history":
+	[
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/minesweeper/index.js",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/minesweeper/src/lib/_base.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/.gitignore",
+		"/D/my/projects/rs-school/basic-js-ds/src/queue.js",
+		"/D/my/projects/narod.ru/aleksversus.narod.ru/temp/index.html",
+		"/D/my/projects/rs-school/webpack-js/package.json",
+		"/D/my/projects/rs-school/tests.html",
+		"/D/my/projects/rs-school/HTML-builder/01-read-file/index.js",
+		"/D/my/projects/rs-school/virtual-keyboard/res/js/index.js",
+		"/D/my/projects/rs-school/virtual-keyboard/index.html",
+		"/D/my/projects/rs-school/virtual-keyboard/.eslintrc.json",
+		"/D/my/projects/rs-school/virtual-keyboard/build/keymap.html",
+		"/D/my/projects/rs-school/virtual-keyboard/res/css/styles.css",
+		"/D/my/projects/rs-school/virtual-keyboard/build/base_.js",
+		"/D/my/projects/rs-school/virtual-keyboard/build/del.css",
+		"/D/my/projects/rs-school/shift.html",
+		"/D/my/projects/rs-school/virtual-keyboard/.gitignore",
+		"/D/my/projects/rs-school/virtual-keyboard/js/index.js",
+		"/D/my/projects/rs-school/virtual-keyboard/package.json",
+		"/D/my/projects/rs-school/virtual-keyboard/js/app.js",
+		"/D/my/projects/rs-school/virtual-keyboard/.tern-project",
+		"/D/my/projects/rs-school/virtual-keyboard/README.md",
+		"/C/Users/aleks/AppData/Roaming/Sublime Text/Packages/tern_for_sublime/Tern.sublime-settings",
+		"/D/my/projects/rs-school/clean-code-s1e1/index.html",
+		"/D/my/projects/rs-school/clean-code-s1e1/app.js",
+		"/D/my/projects/rs-school/clean-code-s1e1/style.css",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/js/burger.js",
+		"/C/Users/aleks/Downloads/page-logic.txt",
+		"/D/my/projects/rs-school/basic-js/README.md",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/js/slider_pets.js",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/js/our_pets.js",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/js/index.js",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/src/_modal.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/src/_buttons.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/index.html",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/pages/our_pets.html",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/src/_toggles.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/js/slider_main.js",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/js/popup.js",
+		"/D/my/GameDev/QuestSoftPlayer/QSPother/QN 0028 QG 400b/assets/skins/classic/skins/game.css",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/src/_st.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/js/_aux.js",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/src/_slider.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/js/pets_base.js",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/src/_header.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/main.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/src/_footer.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/src/_donation.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/src/_about.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/src/_startscreen.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/src/_help.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/main.css",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/src/_hiding.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/build.bat",
+		"/C/Users/aleks/AppData/Roaming/Sublime Text/Packages/User/scss.sublime-build",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/fonts/stylesheet.css",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/src/_fonts.scss",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/fonts/arial/stylesheet.css",
+		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/shelter/res/css/our_pets.css",
+		"/C/Users/aleks/AppData/Roaming/Sublime Text/Packages/User/Package Control.user-ca-bundle",
+		"/C/Users/aleks/AppData/Roaming/Sublime Text/Packages/User/Package Control.sublime-settings",
+		"/D/my/projects/rs-school/rsschool-cv/index.html",
+		"/D/my/projects/rs-school/cssBayan/cssBayan/index.html",
+		"/D/my/projects/rs-school/cssBayan/.git/hooks/prepare-commit-msg.py",
+		"/D/my/projects/rs-school/cssBayan/.git/hooks/prepare-commit-msg",
+		"/D/my/projects/rs-school/cssBayan/cssBayan/style.css",
+		"/D/my/projects/rs-school/cssBayan/README.md",
+		"/D/my/projects/rs-school/rsschool-cv/cv.md",
+		"/D/my/projects/rs-school/cssBayan/.git/hooks/pre-merge-commit",
+		"/D/my/projects/rs-school/cssBayan/.git/hooks/pre-commit.sample",
+		"/D/my/projects/rs-school/rsschool-cv/README.md",
+		"/D/my/projects/rs-school/cssBayan/.git/hooks/pre-merge-commit_.sample",
+		"/D/my/projects/rs-school/cssBayan/.git/hooks/commit-msg.sample",
+		"/D/my/projects/rs-school/rsschool-cv/style.css",
+		"/D/my/projects/rs-school/RS School",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/001_faq_po_qsp_0001.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/002_informatsija_o_qsp_0002.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/003_nash_put__0003.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/010_uchebnik_po_qsp_dlja_redaktora_qgen_0004.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/011_lokalizatsija_qsp_0005.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/012_analizator_koda_qsp_0006.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/013_polka_igr_0007.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/014_rasprostranjaemaja_standalon_sborka_na_klassike_0031.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/020_konsol_nyj_qsp-pleer_0008.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/021_avtomatnoe_programmirovanie_0009.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/100_txt2gam_help_0010.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/101_rabota_v_tekstovom_redaktore_0011.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/102_preprotsessor_0012.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/103_txt2gam_for_linux_0013.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/301_kalendar__po_metodu_schiota_julianskih_dnej_0014.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/302_game_time_0015.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/303_gibkij_plejlist_0016.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/304_ispol_zovanie_massivov_0017.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/305_dopolnenie_inventarja_0018.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/306_dejstvie_po_usloviju_0019.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/307_plavnoe_izmenenie_0020.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/308_otladchik_0021.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/309_tjanem_karty_iz_kollody_0022.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/951_kak_podkljuchit__svoj_shrift_0033.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/952_kak_izmenit__tsvet_fona_0034.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/953_izmenit__kursor_0035.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/954_nastrojka_shablona_0036.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/955_proverka_pleera_0037.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/956_video_0038.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/958_razmer_okna_igry_0040.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/959_vypolnenie_js_iz_qsp-koda_0041.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/960_instruktsija_po_smene_oformlenija_iz_koda_igry_0042.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/961_modal_window_0043.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/970_obnovlenie_do_5.7.0_0023.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/981_aeroqsp_0024.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/982_aeroqsp_instr_0025.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/983_aeroqsp_help_0026.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/984_standalone_aeroqsp_0027.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/985_aeroqsp_uchebnik_0028.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/986_ne_rabotaet_atribut_v_aeroqsp_0044.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/987_ne_rabotaet_giperssylka_v_aeroqsp_0045.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/990_obzory_qsp-compo_2010_0029.txt-light",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/999_zakladki_0030.txt-light",
+		"/D/my/projects/howdo_faq/README.md",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/add/fb2_head.xml",
+		"/D/my/projects/howdo_faq/[source]/ИнформАрхив QSP/add/fb2_footer.xml",
+		"/D/my/projects/howdo_faq/res/[converters]/build_main.py",
+		"/D/my/projects/howdo_faq/[source]/ответы/build-project.json",
+		"/D/my/projects/howdo_faq/[source]/ответы/92_дополнительные тексты/fb2_head.xml",
+		"/D/my/projects/howdo_faq/[source]/ответы/92_дополнительные тексты/fb2_footer.xml",
+		"/D/my/projects/howdo_faq/res/[converters]/__pycache__/nodes.cpython-311.pyc",
+		"/D/my/projects/howdo_faq/res/[converters]/nodes.py",
+		"/D/my/projects/howdo_faq/[source]/example/preobarzovanie_tipov.txt-light"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 205.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 126.0
+	},
+	"output.aaa_package_dev":
+	{
+		"height": 56.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "my_browse_images.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
