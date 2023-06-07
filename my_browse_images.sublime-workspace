@@ -519,6 +519,68 @@
 	},
 	"buffers":
 	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 2060,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n\ndes"
+					},
+					"BQAAAP4HAAAAAAAA/wcAAAAAAAAAAAAA/wcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAEIAAAAAAAAAAAAAAEIAAAAAAAAAggAAAAAAAAAAAAAAggAAAAAAAADCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/gcAAAAAAAD+BwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAAMIAAAAAAAABAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwgAAAAAAAADCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "top."
+					},
+					"BAAAAAQIAAAAAAAABQgAAAAAAAAAAAAABQgAAAAAAAAGCAAAAAAAAAAAAAAGCAAAAAAAAAcIAAAAAAAAAAAAAAcIAAAAAAAACAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAgAAAAAAAAECAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "ini"
+					},
+					"AwAAAAgIAAAAAAAACQgAAAAAAAAAAAAACQgAAAAAAAAKCAAAAAAAAAAAAAAKCAAAAAAAAAsIAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAgAAAAAAAAICAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "k"
+					},
+					"AgAAAAMIAAAAAAAABAgAAAAAAAAAAAAABAgAAAAAAAAECAAAAAAAAAEAAABj",
+					"AQAAAAAAAAABAAAABAgAAAAAAAADCAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -564,10 +626,12 @@
 	},
 	"expanded_folders":
 	[
-		"/D/my/projects/my_browse_image"
+		"/D/my/projects/my_browse_image",
+		"/D/my/projects/my_browse_image/src"
 	],
 	"file_history":
 	[
+		"/D/my/projects/my_browse_image/my_browse_images.sublime-project",
 		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/minesweeper/index.js",
 		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/minesweeper/src/lib/_base.scss",
 		"/D/my/projects/rs-school/aleksversus-JSFE2023Q1/.gitignore",
@@ -694,8 +758,7 @@
 		"/D/my/projects/howdo_faq/[source]/ответы/92_дополнительные тексты/fb2_head.xml",
 		"/D/my/projects/howdo_faq/[source]/ответы/92_дополнительные тексты/fb2_footer.xml",
 		"/D/my/projects/howdo_faq/res/[converters]/__pycache__/nodes.cpython-311.pyc",
-		"/D/my/projects/howdo_faq/res/[converters]/nodes.py",
-		"/D/my/projects/howdo_faq/[source]/example/preobarzovanie_tipov.txt-light"
+		"/D/my/projects/howdo_faq/res/[converters]/nodes.py"
 	],
 	"find":
 	{
@@ -734,6 +797,36 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2052,
+								2052
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1944.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
